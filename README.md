@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <h3 align="left"><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150"></h3>
 
 - 💼 Current Product Data Analyst at Celestica
-- 🌱 Learning about: ML, robotics, power lifting, and cooking
-- ⚡ Fun fact: I once had to hike up a mountain I slipped down from
+- 🌱 Learning about: ML, robotics, 3D printing, and power lifting
+- 🔭 Working on: A science console for autonomous life detection on mars 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AustinLuu" alt="AustinLuu" /></p>
