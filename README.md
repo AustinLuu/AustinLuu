@@ -1,21 +1,10 @@
 ### Hey There 👋
 
-<!--
-**AustinLuu/AustinLuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h3 align="left"><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150"></h3>
+
+Welcome to my little corner of the internet! I'm a curious mechatronics engineer interested in ml, robotics, and accessible tech &mdash; anything that can make tech work better for everyone. Currently, I'm based in Toronto, ON and studying Mechatronics Engineering [@RU](https://www.ryerson.ca/programs/undergraduate/mechanical-engineering/).
+
+In my spare time, you can find me power lifting at the gym, shooting mediocre photos, or hopping from cafe to cafe! Recently, I've started a podcast on which I plan to talk more about some of my thoughts on tech, personal projects, and general musings about the world.
 
 ```json
 {
@@ -25,7 +14,7 @@ Here are some ideas to get you started:
 }
 ```
 
-- 💼 Current Product Data Analyst at Celestica
+- 💼 Current Product Data Analyst at [@Celestica](https://www.celestica.com/) & Mechanical Science Co-lead at [@teamr3](https://teamr3.ca/)
 - 🌱 Learning about: ML, robotics, 3D printing, and power lifting
-- 🔭 Working on: A science console for autonomous life detection on mars 
+- 🔭 Working on: A mechatronics science console for autonomous life detection on mars 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AustinLuu" alt="AustinLuu" /></p>
