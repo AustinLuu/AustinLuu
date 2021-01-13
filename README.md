@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 <h3 align="left"><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150"></h3>
 
+```json
+{
+  "name" : "Austin Luu",
+  "student" : true,
+  "goal" : "building solutions to the world's problems",
+}
+```
+
 - 💼 Current Product Data Analyst at Celestica
 - 🌱 Learning about: ML, robotics, 3D printing, and power lifting
 - 🔭 Working on: A science console for autonomous life detection on mars 
