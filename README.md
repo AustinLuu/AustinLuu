@@ -4,8 +4,6 @@
 
 Welcome to my little corner of the internet! I'm a curious Mechatronics Engineer interested in ML, robotics, and accessible tech &mdash; anything that can make tech work better for everyone. Currently, I'm based in Toronto, ON studying Mechatronics Engineering [@RU](https://www.ryerson.ca/programs/undergraduate/mechanical-engineering/).
 
-In my spare time, you can find me power lifting at the gym, shooting mediocre photos, or at your local beach playing volleyball! Recently, I've started a podcast on which I plan to talk more about some of my thoughts on tech and general musings about the world.
-
 ```json
 {
   "name" : "Austin Luu",
