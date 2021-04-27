@@ -2,7 +2,7 @@
 
 <h3 align="left"><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150"></h3>
 
-Welcome to my little corner of the internet! I'm a curious Mechatronics Engineer interested in ML, robotics, and accessible tech &mdash; anything that can make tech work better for everyone. Currently, I'm based in Toronto, ON studying Mechatronics Engineering [@RU](https://www.ryerson.ca/programs/undergraduate/mechanical-engineering/).
+Welcome to my little corner of the internet! I'm a curious Mechatronics Engineer interested in ML, robotics, and accessible tech &mdash; anything that can make tech work better for everyone.
 
 ```json
 {
