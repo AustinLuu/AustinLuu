@@ -7,7 +7,7 @@ Welcome to my little corner of the internet! I'm a curious Mechatronics Engineer
 ```json
 {
   "name" : "Austin Luu",
-  "student" : true,
+  "location" : "Toronto, Canada",
   "goal" : "building solutions to the world's problems",
 }
 ```
