@@ -13,6 +13,6 @@ Welcome to my little corner of the internet! I'm a curious Mechatronics Engineer
 ```
 
 - 💼 Current Process Engineer at [@AlphaPoly](https://alphapoly.com/) & Mechanical Science Co-lead at [@teamr3](https://teamr3.ca/)
-- 🌱 Learning about: ML, robotics, 3D printing, and power lifting
+- 🌱 Learning about: ML, robotics, and power lifting
 - 🔭 Working on: A mechatronics science console for autonomous life detection on mars 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AustinLuu" alt="AustinLuu" /></p>
