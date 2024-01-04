@@ -2,7 +2,7 @@
 
 <h3 align="left"><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150"></h3>
 
-Welcome to my little corner of the internet! I'm a curious Mechatronics Engineer interested in ML, robotics, and accessible tech &mdash; anything that can make tech work better for everyone.
+Welcome to my little corner of the internet! I'm a curious Software Engineer interested in ML/AI, robotics, and accessible tech &mdash; anything that can make tech work better for everyone.
 
 ```json
 {
@@ -12,7 +12,8 @@ Welcome to my little corner of the internet! I'm a curious Mechatronics Engineer
 }
 ```
 
-- 💼 Current Sr. Analyst at [@CIBC](https://www.cibc.com/en/personal-banking.html) & Data Analyst at [@TOHacks](https://www.tohacks.ca/)
+- 💼 Currently Software Development Engineer at [@ViTAA](https://vitaamedical.com/)
+- 🔭 Previously Sr. Analyst at [@CIBC](https://www.cibc.com/en/personal-banking.html) & Data Analyst at [@TOHacks](https://www.tohacks.ca/)
 - 🌱 Learning about: ML, robotics, and power lifting
-- 🔭 Working on: A mechatronics science console for autonomous life detection on mars 
+- 🔭 Working on: A non-profit popup cafe 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AustinLuu" alt="AustinLuu" /></p>
