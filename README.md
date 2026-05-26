@@ -12,7 +12,7 @@ Welcome to my little corner of the internet! I'm a curious Software Engineer int
 }
 ```
 
-- 💼 Currently: Software Development Engineer at [@ViTAA](https://vitaamedical.com/)
+- 💼 Currently: Software Engineer at [@ViTAA](https://vitaamedical.com/)
 - 💻 Previously: Sr. Analyst at [@CIBC](https://www.cibc.com/en/personal-banking.html) & Data Analyst at [@TOHacks](https://www.tohacks.ca/)
 - 🌱 Learning about: ML, robotics, and power lifting
 - 🔭 Working on: A non-profit popup cafe [@CAFE_TOAST](https://www.instagram.com/cafe__toast)
